@@ -21,3 +21,4 @@
 - create a C4 model abstraction section of the user flow
 - implement a design system in the code that matches the design guide more closely
 - include more of the component states in the figma design guide such as "loading" for logo upload
+- small bugs I wasn't able to address in time (first time that user searches for a technology name the error border doesn't light up, the checkbox at the bottom doesn't match the design exactly, didn't get the text wrap to work for tech description, and a few others that I was hoping to address)

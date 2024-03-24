@@ -1,3 +1,1 @@
-# interview-task-boilerplate
-
-IcePanel engineering interview task boilerplate
+# interview-fullstack-prep
